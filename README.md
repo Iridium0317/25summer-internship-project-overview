@@ -39,7 +39,7 @@ This project presented unique challenges, particularly in a tech-lead-absent env
 ### Challenge 1: Product Design & UX without a PM/Designer
 
 - **Problem:** Without a Product Manager or UI/UX Designer, translating complex engineering requirements into an intuitive application was my direct responsibility.
-- **Solution:** I established and led a direct, iterative feedback loop with the end-user chemical engineers. I created rapid prototypes in Figma [或者可以直接说: I rapidly prototyped UI concepts], conducted weekly demos, and used their feedback to refine the interface. This ensured the final product was not just technically functional but also user-centric and aligned with their critical workflows.
+- **Solution:** I established and led a direct, iterative feedback loop with the end-user chemical engineers. I rapidly prototyped UI concepts, conducted weekly demos, and used their feedback to refine the interface. This ensured the final product was not just technically functional but also user-centric and aligned with their critical workflows.
 
 ### Challenge 2: High-Frequency Data Rendering Performance
 
